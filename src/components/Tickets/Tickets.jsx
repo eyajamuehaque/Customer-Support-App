@@ -1,12 +1,13 @@
 import React from 'react';
 import { toast } from 'react-toastify';
 
-const Tickets = ({ ticket, selected, setSelected, progress, setProgress }) => {
+const Tickets = ({ ticket, selected, setSelected, progress, setProgress, removeCard }) => {
     const handleSelect = () => {
         toast( ticket.title + ' selected!');
         const alreadySelected = selected.find(t => t.id === ticket.id);
         if (!alreadySelected) {
         setSelected([...selected, ticket]);
+            removeCard(ticket.id);
     }
 
         if ((ticket.status === 'In-Progress' || ticket.status === 'Open') && !alreadySelected) {
