@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still can't access it.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "1002",
+    "title": "Payment Not Processing",
+    "description": "User is receiving an error message every time they try to complete a purchase. The payment method seems valid.",
+    "customer": "Jane Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "1003",
+    "title": "Bug Report: Filter Functionality",
+    "description": "The filter on the product page is not working correctly. It shows an empty list even when there are matching items.",
+    "customer": "Alex Johnson",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": "1004",
+    "title": "Account Deactivation Request",
+    "description": "Customer wants to have their account permanently deleted from the system due to privacy concerns.",
+    "customer": "Sarah Lee",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": "1005",
+    "title": "Missing Order Confirmation Email",
+    "description": "User completed an order but never received a confirmation email. The order appears as 'pending' in their history.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": "1006",
+    "title": "Website Performance Issue",
+    "description": "The website is loading very slowly, especially on mobile devices. Pages are taking over 5 seconds to load.",
+    "customer": "Emily White",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": "1007",
+    "title": "Password Reset Link Expired",
+    "description": "A user reported that the password reset link they received expired instantly and they couldn't use it.",
+    "customer": "Robert Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": "1008",
+    "title": "Feature Request: Dark Mode",
+    "description": "Customer has requested a dark mode option for the application to reduce eye strain during nighttime use.",
+    "customer": "Jessica Martinez",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": "1009",
+    "title": "Subscription Cancellation Error",
+    "description": "User is unable to cancel their subscription. The 'cancel' button is unresponsive, and they're still being charged.",
+    "customer": "William Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": "1010",
+    "title": "Incorrect Product Information",
+    "description": "The dimensions listed for a specific product are incorrect, causing confusion for customers.",
+    "customer": "Olivia Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": "1011",
+    "title": "UI Glitch on Dashboard",
+    "description": "The charts on the user dashboard are overlapping and not displaying correctly on smaller screen sizes.",
+    "customer": "James Moore",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": "1012",
+    "title": "Unable to Upload Profile Picture",
+    "description": "Users are encountering an error message every time they try to upload a new profile picture to their account.",
+    "customer": "Sophia Thomas",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": "1013",
+    "title": "General Inquiry about Services",
+    "description": "A potential customer has questions about the different pricing tiers and features of the service.",
+    "customer": "David Evans",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": "1014",
+    "title": "Mobile App Crashing",
+    "description": "The mobile application is consistently crashing on launch for users with the latest iOS update.",
+    "customer": "Liam Harris",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": "1015",
+    "title": "Notification Preferences Not Saving",
+    "description": "User is reporting that their email and push notification preferences are not saving after they update them.",
+    "customer": "Chloe Adams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  }
+]
